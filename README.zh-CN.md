@@ -1,5 +1,7 @@
 # 🧭 Reality Route Helper
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 > 一个面向新手的双语网络连接路线助手。  
 > 第一版重点实现：**Xray / VLESS + Reality**。  
 > 后续可扩展：**Outline、Hysteria2、TUIC、sing-box、3x-ui / Marzban / Hiddify** 等方案。
@@ -273,3 +275,4 @@ TcpTestSucceeded: False
 ## 📜 License
 
 MIT
+

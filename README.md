@@ -1,5 +1,7 @@
 # 🧭 Reality Route Helper
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 > A bilingual, platform-aware helper for choosing, generating, testing, and managing network connection routes.  
 > The first implemented route is **Xray / VLESS + Reality**.
 
@@ -169,3 +171,4 @@ If the online runner is enabled, at least `rrh-linux-amd64` and `rrh-windows-amd
 ## 📜 License
 
 MIT
+

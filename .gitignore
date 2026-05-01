@@ -1,0 +1,37 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Local env / secrets
+.env
+.env.*
+secrets/
+
+# Tool outputs
+rrh-output/
+.migration-backup-*/
+
+# IDE / editor
+.idea/
+.vscode/
+
+# ShipGit local config
+.shipgit.yml
+
+# OS files
+.DS_Store
+Thumbs.db

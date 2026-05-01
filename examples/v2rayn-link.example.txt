@@ -1,0 +1,1 @@
+vless://<UUID>@<VPS_IP>:8443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=<PUBLIC_KEY>&sid=aaa111&flow=xtls-rprx-vision&type=tcp#reality-route-pc

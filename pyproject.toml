@@ -1,0 +1,17 @@
+[project]
+name = "reality-route-helper"
+version = "0.1.0"
+description = "Bilingual platform-aware helper for choosing, generating, and managing network connection routes"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+  {name = "forgottenlab"}
+]
+dependencies = []
+
+[project.scripts]
+rrh = "reality_route_helper.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["reality_route_helper*"]
